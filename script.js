@@ -59,5 +59,5 @@ function update () {
         $circles.forEach((item,idx) => {
             item.classList.remove('zoom');
         })
-    }, 1000)
+    }, 300)
 }
